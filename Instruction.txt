@@ -1,0 +1,6 @@
+== Python Packages
+-- pip install faker google-cloud-storage
+
+ 
+
+
